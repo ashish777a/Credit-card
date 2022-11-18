@@ -82,6 +82,8 @@
     color: white;
     border: 1px solid white;
     
+    padding: 22px 20px 3px 20px;
+    margin: 240px;
 }
 
 .box2 p:last-of-type{
